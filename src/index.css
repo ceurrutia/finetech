@@ -1,0 +1,22 @@
+
+
+html{
+    box-sizing: border-box;
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #292929; 
+    
+}
+
+footer p{
+    color: rgb(236, 238, 240);
+    padding: 10px 0; 
+}
+
+.container{
+    padding-bottom: 30px;
+}
