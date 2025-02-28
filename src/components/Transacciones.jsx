@@ -134,7 +134,7 @@ function Transacciones() {
                 </div>
             )}
            
-            <h2 className="text-center">Gestión de Cuenta</h2>
+            <h2 className="text-center">Gestión de Cuenta billetera virtual</h2>
             <h2 className="text-center">Hola, {usuario?.nombre || 'Usuario'} </h2>
             <h4>Mi saldo: <span id="saldo">${usuario?.saldo || 0}</span></h4>
             <div className="mt-3">
